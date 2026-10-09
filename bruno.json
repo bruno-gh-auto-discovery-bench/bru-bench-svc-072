@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "search-events",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
